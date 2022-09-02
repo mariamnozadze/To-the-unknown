@@ -10,6 +10,7 @@ a {
 
 header .hero {
   position: relative;
+  height: 120vh;
   background: url(bg.jpg);
   background-size: cover;
   background-position: center;
